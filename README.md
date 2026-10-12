@@ -1,8 +1,3 @@
-## Hi there 👋
-
-<!--
-**syednuaym7-maker/syednuaym7-maker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # Hi, I'm Syed 👋
 
 🎓 First-year Computer Science Engineering student at PES University, Bengaluru.
@@ -39,5 +34,3 @@
 ### 📫 Connect With Me
 
 * GitHub: [@syednuaym7-maker](https://github.com/syednuaym7-maker)
-
--->
